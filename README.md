@@ -40,6 +40,7 @@ not dead
 
 2) Add script to `package.json`:
 
+**On Unix machines**
 ```json
 {
   "scripts": {
@@ -48,9 +49,7 @@ not dead
 }
 ```
 
-<details>
-    <summary>for Windows users</summary>
-
+**On Windows machines**
 ```json
 {
   "scripts": {
@@ -58,8 +57,6 @@ not dead
   }
 }
 ```
-
-</details>
 
 3) Run this script, to compile RegExp:
 
