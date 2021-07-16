@@ -35,7 +35,7 @@
     "regexp"
   ],
   "dependencies": {
-    "@types/node": "^14.14.22",
+    "@types/node": "^16.3.3",
     "argue-cli": "^1.2.0",
     "browserslist": "^4.16.3",
     "chalk": "^4.0.0",
